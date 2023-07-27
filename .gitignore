@@ -1,0 +1,11 @@
+# virtualenv
+/venv/
+
+/.pytest_cache/
+.idea/
+ main.py
+/tests/__init__.py
+/pages/__init__.py
+/tests/.pytest_cache/
+/pages/__pycache__/*
+*/__pycache__/*
